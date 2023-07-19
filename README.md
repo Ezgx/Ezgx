@@ -4,7 +4,16 @@
 ![](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![](https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript)
 
-![](https://github-readme-stats.xaoxuu.com/api/?username=ezgx)
+<div id="ezgx1">
+<img src="https://github-readme-stats.xaoxuu.com/api/?username=ezgx">
+<img src="https://streak-stats.demolab.com?user=ezgx&theme=vue-dark">
+</div>
+
+<style>
+  #ezgx1 {
+    display:flex;
+  }
+</style>
 
 <!--
 **Ezgx/Ezgx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
