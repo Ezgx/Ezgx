@@ -14,7 +14,7 @@
     display:flex;
   }
   @media screen and (min-width: 768px) {
-    #ezgx1 img {
+    #ezgx1 a {
       width:50%;
     }
   }
