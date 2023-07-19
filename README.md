@@ -8,17 +8,7 @@
 <img src="https://github-readme-stats.xaoxuu.com/api/?username=ezgx">
 <img src="https://streak-stats.demolab.com?user=ezgx&theme=vue-dark">
 </div>
-
-<style>
-  #ezgx1 {
-    display:flex;
-  }
-  @media screen and (min-width: 768px) {
-    #ezgx1 a {
-      width:50%;
-    }
-  }
-</style>
+<link href="main.css" rel="stylesheet>
 
 <!--
 **Ezgx/Ezgx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
