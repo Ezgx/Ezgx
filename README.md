@@ -13,6 +13,11 @@
   #ezgx1 {
     display:flex;
   }
+  @media screen and (max-width: 768px) {
+    #ezgx1 img {
+      width:50%;
+    }
+  }
 </style>
 
 <!--
