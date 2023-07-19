@@ -1,9 +1,9 @@
 
-  #ezgx1 {
+  #user-content-ezgx1 {
     display:flex;
   }
   @media screen and (min-width: 768px) {
-    #ezgx1 a {
+    #user-content-ezgx1 a {
       width:50%;
     }
   }
